@@ -35,7 +35,8 @@ Each row represents a patient. Key features include:
 
 ## Files in this Repository
 
-* `chd_logistic_regression.ipynb` — Jupyter notebook containing the complete analysis, including data preprocessing, model training, evaluation, and threshold selection.
+* `cardio_regression.ipynb` — Jupyter notebook containing the complete analysis, including data preprocessing, model training, evaluation, and threshold selection.
+* `Predicting 10-Year CHD Risk Using Logistic.pdf` — Presentation
 
 ## How to Use
 
